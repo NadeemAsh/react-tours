@@ -1,4 +1,4 @@
-# Tours - React
+# Tours Project - React
 
 ## This is what I did in this project
 
